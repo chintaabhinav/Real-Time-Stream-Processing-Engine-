@@ -281,8 +281,6 @@ The React (Vite) UI shows:
 - Credit availability / backpressure per channel
 - Live throughput and latency charts
 
-![Riptide dashboard](image.png)
-
 ---
 
 ## Roadmap
